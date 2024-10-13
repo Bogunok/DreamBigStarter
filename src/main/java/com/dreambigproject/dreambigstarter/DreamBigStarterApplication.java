@@ -1,4 +1,4 @@
-package com.example.dreambigstarter;
+package com.dreambigproject.dreambigstarter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

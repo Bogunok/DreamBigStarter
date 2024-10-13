@@ -1,4 +1,4 @@
-package com.example.dreambigstarter;
+package com.dreambigproject.dreambigstarter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

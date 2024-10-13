@@ -1,4 +1,4 @@
-package com.example.dreambigstarter.service;
+package com.dreambigproject.dreambigstarter.service;
 
 import java.time.LocalDate;
 import java.time.Month;
